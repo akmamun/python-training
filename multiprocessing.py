@@ -1,3 +1,4 @@
+#pip install pillow
 # import time
 # from PIL import Image, ImageFilter
 
@@ -21,7 +22,7 @@
 # print(f'Finished in {round(end-start, 2)} seconds') 
 
 #pip install pillow
-#multi process
+# multi process
 
 import time
 import concurrent.futures
